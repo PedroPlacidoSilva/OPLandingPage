@@ -1,0 +1,31 @@
+body {
+    min-height: 100vh;
+    margin:0;
+    
+
+}
+
+.header {
+    height: 32vh;
+    background-color: #1f2937;
+    
+
+}
+
+.container1 {
+    min-height: 27vh;
+    background-color: white;
+
+}
+
+.container2 {
+    min-height: 23vh;
+    background-color: #E5E7EB;
+
+}
+
+.container3 {
+    min-height: 18vh;
+    background-color: white;
+
+}
