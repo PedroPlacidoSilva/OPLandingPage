@@ -12,12 +12,11 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     
-
 }
 
 .container1 {
-    min-height: 27vh;
     background-color: white;
+    padding: 25px 200px 100px 200px;
 
 }
 
@@ -68,6 +67,7 @@ li a {
            
 }
 
+/* Styles Header 1 */
 .nav-item {
     padding-left: 15px;
 }
@@ -112,5 +112,44 @@ li a {
     font-weight: bold;
     border-radius: 5px;
     padding:5px 15px 5px 15px
+
+}
+
+/* Styles container 1 block */
+
+.container1head {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: 800;
+}
+
+.container1elements {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+
+}
+
+
+img {
+    border: 5px solid #3882F6;
+    border-radius: 5px;
+    width: 180px;
+    margin: 10px;
+}
+
+.container1text {
+    display: flex;
+    width: 180px;
+    margin-left: 20px;
+    text-align: center;
+    
+   
+    
 
 }
