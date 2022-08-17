@@ -21,9 +21,9 @@ body {
 }
 
 .container2 {
-    min-height: 23vh;
     background-color: #E5E7EB;
-
+    padding: 70px 350px 70px 350px;
+    
 }
 
 .container3 {
@@ -37,8 +37,6 @@ body {
     display: flex;
     justify-content: space-between;
   
-    
-
 }
 
 .nav-links{
@@ -131,8 +129,6 @@ li a {
     justify-content: center;
     flex-wrap: wrap;
     
-
-
 }
 
 
@@ -148,8 +144,21 @@ img {
     width: 180px;
     margin-left: 20px;
     text-align: center;
-    
-   
-    
+ 
+}
 
+/* Styles container 2 block */
+
+
+.container2text1 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.container2text2 {
+    font-weight: 800;
+    color: #1F2937;
+    float: right;
+    padding-right: 50px;
 }
