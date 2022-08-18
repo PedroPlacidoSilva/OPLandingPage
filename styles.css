@@ -22,7 +22,7 @@ body {
 
 .container2 {
     background-color: #E5E7EB;
-    padding: 70px 350px 70px 350px;
+    padding: 100px 600px 100px 600px;
             
 }
 
@@ -200,7 +200,14 @@ img {
     border-radius: 5px;
     padding:5px 20px 5px 20px;
     border-color: white;
-    
+}
 
+/* Styles container footer */
 
+footer {
+    background-color: #1f2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white;
+    text-align: center;
 }
